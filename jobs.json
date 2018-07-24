@@ -18,7 +18,8 @@
     "priceCurrency": "php",
     "lat": 16.616485 ,
     "lng": 120.317147,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related courses"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related courses",
+    "pos": "ADMINISTRATION STAFF"
 
   },
   {
@@ -29,7 +30,8 @@
     "priceCurrency": "php",
     "lat": 16.617425,
     "lng": 120.290694,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related courses"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related courses",
+    "pos": "ADMINISTRATION STAFF"
   },
   {
     "id": 205,
@@ -39,7 +41,8 @@
     "priceCurrency": "php",
     "lat": 16.621206,
     "lng": 120.317499,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related courses"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related courses",
+    "pos": "ADMINISTRATION STAFF"
   },
   {
     "id": 210,
@@ -49,7 +52,8 @@
     "priceCurrency": "Php",
     "lat": 16.643578,
     "lng": 120.448791,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related courses"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related courses",
+    "pos": "ADMINISTRATION STAFF"
 
   },
   {
@@ -60,7 +64,8 @@
     "priceCurrency": "php",
     "lat": 16.58814,
     "lng": 120.314598,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related courses"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related courses",
+    "pos": "ADMINISTRATION STAFF"
   },
   {
     "id": 212,
@@ -70,7 +75,8 @@
     "priceCurrency": "php",
     "lat": 16.79948,
     "lng":  120.357413,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related courses"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related courses",
+    "pos": "ADMINISTRATION STAFF"
   },
   {
     "id": 213,
@@ -80,6 +86,7 @@
     "priceCurrency": "php",
     "lat":16.32259 ,
     "lng":  120.35037,
-    "des": "Graduate of any Business or Information Technology/Computer Science-related coursesk"
+    "des": "Graduate of any Business or Information Technology/Computer Science-related coursesk",
+    "pos": "ADMINISTRATION STAFF"
   }
 ]
