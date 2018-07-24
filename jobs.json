@@ -24,14 +24,14 @@
   },
   {
     "id": 201,
-    "name": "poro point lighthouse",
+    "name": "Gatchallan Tangalin & Co., CPAs - Pasig",
     "imageUrl": "http://4.bp.blogspot.com/-7yZsXLNwdgE/Utmiy9KP1VI/AAAAAAAAD_w/mtrraLu9fyI/s1600/1548022_10200616809622166_1438021025_o.jpg",
     "price": 40,
     "priceCurrency": "php",
-    "lat": 16.617425,
-    "lng": 120.290694,
-    "des": "-Graduate of any Business or Information Technology/Computer Science-related courses",
-    "pos": "ADMINISTRATION STAFF"
+    "lat":  14.583937,
+    "lng": 121.062808,
+    "des": "Candidate must possess at least High School Diploma.",
+    "pos": "Office Staff"
   },
   {
     "id": 205,
