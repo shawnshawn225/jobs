@@ -13,7 +13,7 @@
     "id": 148,
     "name": "Cebuana Lhuillier",
     "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
-    "price": 8000,
+    "price": -8000,
     "priceCurrency": "php",
     "lat": 16.616485 ,
     "lng": 120.317147,
