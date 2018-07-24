@@ -46,7 +46,7 @@
   },
   {
     "id": 210,
-    "name": "Landbank",
+    "name": "Landbank.",
     "imageUrl": "https://1.bp.blogspot.com/-5fOqphHorjs/TnG3xxd-mhI/AAAAAAAABFY/oHVeFzpvyzs/s1600/Landbank_logo.jpg",
     "price": 15000,
     "priceCurrency": "Php",
@@ -69,13 +69,13 @@
   },
   {
     "id": 212,
-    "name": "PUREGOLD PRICE CLUB INC",
+    "name": "PUREGOLD PRICE CLUB INC.",
     "imageUrl": "http://puregoldbeta.webtogo.com.ph/images/items/image1/PG_JR-SAN_FERNANDO-1407809502911.jpg",
     "price": 13000,
     "priceCurrency": "php",
     "lat": 16.626765,
     "lng":  120.319306,
-    "des": "-Female / Male-Graduate of Psychology, Behavioral Science or Human Resource Management,Minimum of 1-2 years experience in the same capacity,Above average verbal and written communication skills",
+    "des": "Female / Male-Graduate of Psychology, Behavioral Science or Human Resource Management,Minimum of 1-2 years experience in the same capacity,Above average verbal and written communication skills",
     "pos": "HR Supervisor / HR Assistant "
   }
 ]
