@@ -1,0 +1,76 @@
+[
+  {
+    "id": 145,
+    "name": "Philippine Oncology Center Corporation",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "price": 17,000,
+    "priceCurrency": "php",
+    "lat":  14.699673,
+    "lng": 121.06677
+  },
+  {
+    "id": 148,
+    "name": "Pagoda-The province of La Union is a popular tourist destination, with more and more visitors coming every year to get a glimpse of the many fascinating attractions here.  Besides its fantastic beaches for swimming and surfing, La Union also has Pagoda Hill, situated in the city of San Fernando, the capital city of La Union",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 0,
+    "priceCurrency": "php",
+    "lat": 16.614179,
+    "lng": 120.319104
+
+  },
+  {
+    "id": 201,
+    "name": "poro point lighthouse",
+    "imageUrl": "http://4.bp.blogspot.com/-7yZsXLNwdgE/Utmiy9KP1VI/AAAAAAAAD_w/mtrraLu9fyI/s1600/1548022_10200616809622166_1438021025_o.jpg",
+    "price": 40,
+    "priceCurrency": "php",
+    "lat": 16.617425,
+    "lng": 120.290694
+  },
+  {
+    "id": 205,
+    "name": "macho temple",
+    "imageUrl": "https://image.vigattin.com/box/optimize/82/951_1029933429994833918.jpg",
+    "price": 7,
+    "priceCurrency": "php",
+    "lat": 16.621206,
+    "lng": 120.317499
+  },
+  {
+    "id": 210,
+    "name": "tangadan falls",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "price": 50,
+    "priceCurrency": "Php",
+    "lat": 16.643578,
+    "lng": 120.448791
+
+  },
+  {
+    "id": 211,
+    "name": "pindangan ruins",
+    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg",
+    "price": 20,
+    "priceCurrency": "php",
+    "lat": 16.58814,
+    "lng": 120.314598
+  },
+  {
+    "id": 212,
+    "name": "occalong",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/40/f5/c1/occalong-falls-during.jpg",
+    "price": 100,
+    "priceCurrency": "php",
+    "lat": 16.79948,
+    "lng":  120.357413
+  },
+  {
+    "id": 213,
+    "name": "bahay namin",
+    "imageUrl": "https://github.com/shawnshawn225/caniezo/blob/master/bahay.jpg?raw=true",
+    "price": 30,
+    "priceCurrency": "php",
+    "lat":16.32259 ,
+    "lng":  120.35037
+  }
+]
